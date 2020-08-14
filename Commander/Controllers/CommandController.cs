@@ -11,7 +11,6 @@ namespace Commander.Controllers
 {
     [ApiController]
     [Route("api/commands")]
-    // [Route("api/[controller]")]
     public class CommandController : ControllerBase
     {
         private readonly ILogger<CommandController> _logger;
@@ -42,7 +41,7 @@ namespace Commander.Controllers
             {
                 return Ok(_mapper.Map<CommandReadDto>(commandItem));    
             }
-            return NotFound(new { Message = "Aconteceu erro na sua solicitação." });
+            return NotFound();
         }
 
         //POST api/commands
