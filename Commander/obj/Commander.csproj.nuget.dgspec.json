@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\developerTi\\rascunho\\WebAPI Commander\\Commander\\Commander.csproj": {}
+    "F:\\developerTi\\rascunho\\WebAPI Commander\\commander\\Commander.csproj": {}
   },
   "projects": {
-    "F:\\developerTi\\rascunho\\WebAPI Commander\\Commander\\Commander.csproj": {
+    "F:\\developerTi\\rascunho\\WebAPI Commander\\commander\\Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\developerTi\\rascunho\\WebAPI Commander\\Commander\\Commander.csproj",
+        "projectUniqueName": "F:\\developerTi\\rascunho\\WebAPI Commander\\commander\\Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "F:\\developerTi\\rascunho\\WebAPI Commander\\Commander\\Commander.csproj",
+        "projectPath": "F:\\developerTi\\rascunho\\WebAPI Commander\\commander\\Commander.csproj",
         "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "F:\\developerTi\\rascunho\\WebAPI Commander\\Commander\\obj\\",
+        "outputPath": "F:\\developerTi\\rascunho\\WebAPI Commander\\commander\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
